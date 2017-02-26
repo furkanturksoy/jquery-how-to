@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "jquery-widgets", "jquery-widgets", "{0ED3D50D-23D6-43F6-87D9-AF56A70A74FE}"
+	ProjectSection(SolutionItems) = preProject
+		accordion.html = accordion.html
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{24651C6C-9FE2-48E1-9E82-CC79EFD87653}"
 EndProject
